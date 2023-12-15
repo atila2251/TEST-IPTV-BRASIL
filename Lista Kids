@@ -1,14 +1,19 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id=""https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network SD
+https://s.m3u9.top/a2/hls1/cartoon/__index.m3u8?mu3zAQc9HC3GbwJq=g9sHUsREEHmkEYT6Hy6hng&3U1G7qaTxrPbalZnEx=1702693329
+
+EXTINF:-1 tvg-id=""https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+https://cdn-1.livestreamgratis.com//cartoonnetwork/index.m3u8?token=59b9feaaa76f36867378f147a5f9e216e2a4c08d-931b0edc48fa738cb554a4b27d670c04-1702675445-1702664645&remote=2804:14d:8e80:536d:5db8:dac:b8c2:fd57
 
 #EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO SD
-http://bdtb.io:80/live/378724/pcapQ5/131173.m3u8
+https://s.m3u9.top/a2/hls1/gloobinho/__index.m3u8?mu3zAQc9HC3GbwJq=90TC03E880xlGuImQYyQCw&3U1G7qaTxrPbalZnEx=1702693069
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/360
+https://tvembed.net:443/globinho/tracks-v1a1/mono.m3u8?remote=187.106.79.184&token=2a6e5c4b0e68945a038fa69445e11d0e6b808f77-3107eaa5375f28e9cc9f4427bff940c2-1702671318-1702664118
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
 https://tvembed.net/gloob/index.m3u8?token=deabcc7681985b115460b2c928791231099539c4-837175d82c0c66e8f3dfd5c0a12b596b-1702670611-1702663411&remote=187.106.79.184
@@ -18,3 +23,10 @@ https://s.m3u9.top/a2/hls1/gloob/__index.m3u8?mu3zAQc9HC3GbwJq=WhQCYwCsBrcyuu63-
 
 #EXTINF:-1 tvg-id=""https://logowik.com/content/uploads/images/tooncast4341.jpg" group-title="Canais | INFANTIL",Tooncast SD
 https://s.m3u9.top/a2/hls1/tooncast/__index.m3u8?mu3zAQc9HC3GbwJq=pCFWxCB9Vsz0K9ozJhA4OA&3U1G7qaTxrPbalZnEx=1702691677
+
+#EXTINF:-1 tvg-id=""https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/2438px-ZooMoo_logo.svg.png" group-title="Canais | INFANTIL", Zoomoo Kids HD
+https://midiapaineis.com/video.php?acesso=a531f240ead5f4f0bf40b38122a14c91&usuario=7052eea839212efa2306b59499de1846
+
+#EXTINF:-1 tvg-id=""https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/2560px-Cartoonito_-_Logo_2021.svg.png
+" group-title="Canais | INFANTIL", Cartoonito SD
+https://s.m3u9.top/a2/hls1/cartoonito/__index.m3u8?mu3zAQc9HC3GbwJq=uP8hL59X-7k1gKrqZaYvqQ&3U1G7qaTxrPbalZnEx=1702694611
