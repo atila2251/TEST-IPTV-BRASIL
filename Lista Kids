@@ -10,11 +10,11 @@ http://bdtb.io:80/live/378724/pcapQ5/131173.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO HD
 http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/360
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB SD
-http://bdtb.io:80/live/378724/pcapQ5/131117.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
-http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/358
+https://tvembed.net/gloob/index.m3u8?token=deabcc7681985b115460b2c928791231099539c4-837175d82c0c66e8f3dfd5c0a12b596b-1702670611-1702663411&remote=187.106.79.184
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Tooncast_logo.svg" group-title="Canais | INFANTIL",Tooncast SD
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB SD
+https://s.m3u9.top/a2/hls1/gloob/__index.m3u8?mu3zAQc9HC3GbwJq=WhQCYwCsBrcyuu63-1oVbA&3U1G7qaTxrPbalZnEx=1702692405
+
+#EXTINF:-1 tvg-id=""https://logowik.com/content/uploads/images/tooncast4341.jpg" group-title="Canais | INFANTIL",Tooncast SD
 https://s.m3u9.top/a2/hls1/tooncast/__index.m3u8?mu3zAQc9HC3GbwJq=pCFWxCB9Vsz0K9ozJhA4OA&3U1G7qaTxrPbalZnEx=1702691677
