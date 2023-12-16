@@ -1,0 +1,142 @@
+#EXTM3U
+
+Avise algum problema, sou só uma pessoa pfv tenha paciência para futuras atualizações 
+
+############################################################################ Canais | INFANTIL
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network SD
+https://s.m3u9.top/a2/hls1/cartoon/__index.m3u8?mu3zAQc9HC3GbwJq=g9sHUsREEHmkEYT6Hy6hng&3U1G7qaTxrPbalZnEx=1702693329
+
+#EXTINF:-1 tvg-logo="https://imgur.com/dlTmblr.png" group-title="Canais | INFANTIL",Cartoon Network HD
+http://hapincy.com.global.prod.fastly.net/live/gloob/play1.m3u8?token=1702789205_a2b89097caa557352f4f4e8ae0f748f04429c670
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/dO4krB3.png" group-title="Canais | INFANTIL",TV RA TIM BUM HD 
+http://mn.appserv19.xyz:2095/Xplus-1-tH54zJr8e8/IoMyIJGQJy/557
+ 
+#EXTINF:-1 tvg-logo="https://imgur.com/vYFZ98f.png" group-title="Canais | INFANTIL",Nickelodeon HD
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/sRw3v0a.png" group-title="Canais | INFANTIL",GLOOBINHO SD
+https://s.m3u9.top/a2/hls1/gloobinho/__index.m3u8?mu3zAQc9HC3GbwJq=90TC03E880xlGuImQYyQCw&3U1G7qaTxrPbalZnEx=1702693069
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB HD
+live/gloob/play1.m3u8?token=1702789205_a2b89097caa557352f4f4e8ae0f748f04429c670
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QTzmu0S.png" group-title="Canais | INFANTIL",HBO Family SD
+https://s.m3u9.top/a2/hls1/hbofamily/__index.m3u8?mu3zAQc9HC3GbwJq=-pqkgyREZI916vYl1VVxHw&3U1G7qaTxrPbalZnEx=1702702050
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/QTzmu0S.png" group-title="Canais | INFANTIL",HBO Family HD
+https://tvembed.net:443/hbo-family/tracks-v1a1/mono.m3u8?remote=187.106.79.184&token=8b2e1bbd4602473377c3c8c194ab0140bc2ce3e3-06c8c3a963673f1c6363cde58177d920-1702680274-1702673074
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://imgur.com/qgyrEps.png" group-title="Canais | INFANTIL",GLOOB SD
+https://s.m3u9.top/a2/hls1/gloob/__index.m3u8?mu3zAQc9HC3GbwJq=WhQCYwCsBrcyuu63-1oVbA&3U1G7qaTxrPbalZnEx=1702692405
+ 
+#EXTINF:-1 tvg-id=""https://i.imgur.com/I2UmR9D.png" group-title="Canais | INFANTIL",Tooncast SD
+https://s.m3u9.top/a2/hls1/tooncast/__index.m3u8?mu3zAQc9HC3GbwJq=pCFWxCB9Vsz0K9ozJhA4OA&3U1G7qaTxrPbalZnEx=1702691677
+ 
+#EXTINF:-1 tvg-id=""https://i.imgur.com/fRec5xG.png" group-title="Canais | INFANTIL",Zoomoo Kids HD
+https://midiapaineis.com/video.php?acesso=a531f240ead5f4f0bf40b38122a14c91&usuario=7052eea839212efa2306b59499de1846
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/vR8ODFf.png" group-title="Canais | INFANTIL",Cartoonito SD
+https://s.m3u9.top/a2/hls1/cartoonito/__index.m3u8?mu3zAQc9HC3GbwJq=uP8hL59X-7k1gKrqZaYvqQ&3U1G7qaTxrPbalZnEx=1702694611
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/vR8ODFf.png" group-title="Canais | INFANTIL",Cartoonito HD
+https://midiapaineis.com/video.php?acesso=85d29c1662d9d76d0b2870d542bcef81&usuario=7052eea839212efa2306b59499de1846
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/FoqjJNj.png" group-title="Canais | INFANTIL",Nick Jr SD
+https://s.m3u9.top/a2/hls1/nickjr/__index.m3u8?mu3zAQc9HC3GbwJq=wIRLaWx4O9uzqAWcWegDJw&3U1G7qaTxrPbalZnEx=1702698423
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/FoqjJNj.png" group-title="Canais | INFANTIL",Nick Jr HD
+https://tvembed.net:443/nick-jr/tracks-v1a1/mono.m3u8?remote=187.106.79.184&token=53c0c3e6b2b8ad7820fdbcdda0370ecfe6daf80f-db22d6cdeb12ce67eaf20eb745bf2406-1702676799-1702669599
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/SY7POa0.png" group-title="Canais | INFANTIL",Baby TV HD
+https://tvembed.net:443/babytv/tracks-v1a1/mono.m3u8?remote=187.106.79.184&token=3aa1fbb1d10faf7e0836f42e65c0ef47ceae29c3-a7cca1b3cdf6e6c76e8f07ec649572dc-1702677203-1702670003
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/d2xPLoz.png" group-title="Canais | INFANTIL",Disney Channel SD
+https://cdn-1.livestreamgratis.com:443/disneychannel/tracks-v1a1/mono.m3u8?remote=2804:14d:8e80:536d:5db8:dac:b8c2:fd57&token=ba78623166599baf5b9ca4bbeb6dd62759c4bf7c-caf1b3a5cb9aaef094acfa7930775afc-1702680981-1702670181
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/d2xPLoz.png" group-title="Canais | INFANTIL",Disney Channel HD
+https://tvembed.net:443/disney/tracks-v1a1/mono.m3u8?remote=187.106.79.184&token=72cf1cced4739b8bb39ec1a6970f1b801f6776bb-f4e9ae4d3f08ff6c6eb757d103aea2a8-1702677553-1702670353
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/rQlXoPH.png" group-title="Canais | INFANTIL",Discovery Kids SD
+https://s.m3u9.top/a2/hls1/discoverykids/__index.m3u8?mu3zAQc9HC3GbwJq=T3Q1l9-JIDIH4dIQ9P9jDA&3U1G7qaTxrPbalZnEx=1702699837
+
+########################################################################### Canais | ESPORTES 
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/M7Br5mq.png" group-title="Canais | ESPORTES",ESPN SD
+https://s.m3u9.top/a2/hls1/espn/__index.m3u8?mu3zAQc9HC3GbwJq=SGA_uVqJW1p541odjcvjpw&3U1G7qaTxrPbalZnEx=1702706459
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/3N1WPhP.png" group-title="Canais | ESPORTES",ESPN 2 SD
+https://s.m3u9.top/a2/hls1/espn2/__index.m3u8?mu3zAQc9HC3GbwJq=9u6Dgmq7lzgP1YaFkJ0VNQ&3U1G7qaTxrPbalZnEx=1702706807
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/37rAD57.png" group-title="Canais | ESPORTES",ESPN 3 SD
+https://s.m3u9.top/a2/hls1/espn3/__index.m3u8?mu3zAQc9HC3GbwJq=0Wwi0zcWzdC7s7aoTEYv5w&3U1G7qaTxrPbalZnEx=1702706898
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/sDsgEPq.png" group-title="Canais | ESPORTES",ESPN 4 SD
+https://s.m3u9.top/a2/hls1/espn4/__index.m3u8?mu3zAQc9HC3GbwJq=6k5NZ6vwrxriXEYOpoG4FQ&3U1G7qaTxrPbalZnEx=1702706935
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/M7Br5mq.png" group-title="Canais | ESPORTES",ESPN HD
+http://hapincy.com.global.prod.fastly.net/live2/espn/play1.m3u8?token=1702791378_8505f1db438952949d3452d129a6e1270483b8b2
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/3N1WPhP.png" group-title="Canais | ESPORTES",ESPN 2 HD
+http://hapincy.com.global.prod.fastly.net/live2/espn2/play1.m3u8?token=1702791378_51d32c19405df0d150e5d9a6577fdd43b699af83
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/37rAD57.png" group-title="Canais | ESPORTES",ESPN 3 HD
+https://hlsplus.online:443/p2p/spn3/chunks.m3u8?nimblesessionid=4814830&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMyA2OjAyOjU0IEFNJmhhc2hfdmFsdWU9dTBNcE16bkVZcjBjd0U2NGR1WThqUT09JnZhbGlkbWludXRlcz0xNjA=
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/sDsgEPq.png" group-title="Canais | ESPORTES",ESPN 4 HD
+http://hapincy.com.global.prod.fastly.net/live2/espn4/play1.m3u8?token=1702791378_5d64ba832a606c68853c73052409ad81acaa450f
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/tS1zUYT.jpg" group-title="Canais | ESPORTES",PREMIERE 2 SD
+https://s.m3u9.top/a2/hls1/premiere2/__index.m3u8?mu3zAQc9HC3GbwJq=eSeqItLOAG-MdHtb1hmj4w&3U1G7qaTxrPbalZnEx=1702708617
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/vZpctU2.jpg" group-title="Canais | ESPORTES",PREMIERE 3 SD
+https://s.m3u9.top/a2/hls1/premiere3/__index.m3u8?mu3zAQc9HC3GbwJq=OtmJ8YNyUT5Sc4n_sTmVkQ&3U1G7qaTxrPbalZnEx=1702708719
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/nKbGw2F.jpg" group-title="Canais | ESPORTES",PREMIERE 4 SD
+https://s.m3u9.top/a2/hls1/premiere4/__index.m3u8?mu3zAQc9HC3GbwJq=guZHDEVlSrwfQgsWi-f4uA&3U1G7qaTxrPbalZnEx=1702709305
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/CbKSLHe.jpg" group-title="Canais | ESPORTES",PREMIERE 5 SD
+https://s.m3u9.top/a2/hls1/premiere5/__index.m3u8?mu3zAQc9HC3GbwJq=oU97JFGpPA8j939uKjji6A&3U1G7qaTxrPbalZnEx=1702709331
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/VherzAd.jpg" group-title="Canais | ESPORTES",PREMIERE 6 SD
+https://s.m3u9.top/a2/hls1/premiere6/__index.m3u8?mu3zAQc9HC3GbwJq=nb0zQ6tTn-DgS-7ZFo3MXA&3U1G7qaTxrPbalZnEx=1702709357
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/GDRj5cx.jpg" group-title="Canais | ESPORTES",PREMIERE 7 SD
+https://s.m3u9.top/a2/hls1/premiere7/__index.m3u8?mu3zAQc9HC3GbwJq=DKHuzi_OjvmZL0FEfmWBFQ&3U1G7qaTxrPbalZnEx=1702709384
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/ATCOKTz.jpg" group-title="Canais | ESPORTES",PREMIERE 8 SD
+https://s.m3u9.top/a2/hls1/premiere8/__index.m3u8?mu3zAQc9HC3GbwJq=k9xFcGrBVpmGC1_kdCHrbw&3U1G7qaTxrPbalZnEx=1702709414
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/tS1zUYT.jpg" group-title="Canais | ESPORTES",PREMIERE 2 HD
+http://fadder.eletrinho.shop:2095/live2/premiere2/chunks.m3u8?token=1702791378_2856385441245a175f2145280961840cdd72106b
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/vZpctU2.jpg" group-title="Canais | ESPORTES",PREMIERE 3 HD
+http://hapincy.com.global.prod.fastly.net/live2/premiere3/play1.m3u8?token=1702791378_c5cbc5f91bde420a24cdf7aa18ea7d63455a4b28
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/nKbGw2F.jpg" group-title="Canais | ESPORTES",PREMIERE 4 HD
+http://hapincy.com.global.prod.fastly.net/live2/premiere4/play1.m3u8?token=1702791378_69c761d564ad2c00dbc644c10acfb70e030d5fa6
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/CbKSLHe.jpg" group-title="Canais | ESPORTES",PREMIERE 5 HD
+http://hapincy.com.global.prod.fastly.net/live2/premiere5/play1.m3u8?token=1702791378_67a9d230d5c913482e5e8c0b4f53738d6402ed5b
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/VherzAd.jpg" group-title="Canais | ESPORTES",PREMIERE 6 HD
+http://fadder.eletrinho.shop:2095/live2/premiere6/chunks.m3u8?token=1702789954_4d98e89567d464c7dfef0475e5a1aea65f1b2bc8
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/GDRj5cx.jpg" group-title="Canais | ESPORTES",PREMIERE 7 HD
+http://fadder.eletrinho.shop:2095/live2/premiere7/chunks.m3u8?token=1702789954_78145a63317a1118a4f00d4e8fb8666dcb4a7217
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/ATCOKTz.jpg" group-title="Canais | ESPORTES",PREMIERE 8 HD
+https://hlsplus.online/p2p/premier8/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTYvMjAyMyA1OjI0OjQ5IEFNJmhhc2hfdmFsdWU9aCtrOHJud1hsTHZ3TW1HUUx0dTdLQT09JnZhbGlkbWludXRlcz0xNjA=
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/YZeqXsh.png" group-title="Canais | ESPORTES",PREMIERE CLUBES HD
+http://fadder.eletrinho.shop:2095/live2/premiereclubes/chunks.m3u8?token=1702789954_ac2cd4719a540b2f051cde7b193888c55d85e4a5
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/YZeqXsh.png" group-title="Canais | ESPORTES",PREMIERE CLUBES SD
+https://s.m3u9.top/a2/hls1/premiereclubes/__index.m3u8?mu3zAQc9HC3GbwJq=CawquAeNtrO60a7K_N_Chg&3U1G7qaTxrPbalZnEx=1702732675
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/zwylN6D.png" group-title="Canais | ESPORTES",SPORTV HD
+http://hapincy.com.global.prod.fastly.net/live2/sportv/play1.m3u8?token=1702789954_3c4544966e4e1cad337002041f09778258776b17
+
+#EXTINF:-1 tvg-id=""https://i.imgur.com/zwylN6D.png" group-title="Canais | ESPORTES",SPORTV SD
+https://s.m3u9.top/a2/hls1/sportv1/__index.m3u8?mu3zAQc9HC3GbwJq=yWwLw2OClp207rq4LchQSQ&3U1G7qaTxrPbalZnEx=1702732716
